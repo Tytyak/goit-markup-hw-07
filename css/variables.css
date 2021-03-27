@@ -1,0 +1,19 @@
+:root{
+    --blue: rgba( 33,150,243,1);
+    --black: rgba(33,33,33,1);
+    --gray: rgba(117,117,117,1);
+    --gray-op60: rgba(255,255,255,0.6);
+    --white: rgba(255,255,255,1);
+    --background-buton: rgba(245,244,250,1);
+    --background-foot: rgba(47,48,58,1);
+    --border: rgba(238,238,238,1);
+    --border-head: rgba(236,236,236,1);
+    --icon: rgba(175,177,184,1);
+    --icon-foot: rgba(255,255,255,0.1);
+    --background-modal: rgba(0, 0, 0, 0.2);
+    --modal-btn: rgba(0, 0, 0, 0.1);
+    --bacground-card: rgba(33,150,243,0.9);
+    --overlay: rgba(47,48,58,0.8);
+    --time-function: cubic-bezier(0.4, 0, 0.2, 1);
+    --time: 250ms;
+}
